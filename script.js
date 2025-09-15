@@ -282,7 +282,7 @@ const GameController = (playerName1, playerName2) => {
    }
 
 
-   return { playTurn, getCurrentPlayer, resetTurn, player1, player2, score1, score2, score3 };
+   return { playTurn, getCurrentPlayer, resetTurn, player1, player2};
 
 };
 
